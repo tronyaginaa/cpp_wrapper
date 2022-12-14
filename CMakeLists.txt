@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.24)
+set(CXX_STANDARD 20)
+project(cpp_calculator VERSION 1.0.0  LANGUAGES CXX)
+add_subdirectory("wrapper")
+
+
